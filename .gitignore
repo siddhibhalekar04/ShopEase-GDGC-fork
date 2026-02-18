@@ -49,3 +49,7 @@ coverage/
 test-*
 student-guide
 backend/prisma/migrations/*
+
+# CI/CD Files
+.github/*
+apprunner-*.yaml
